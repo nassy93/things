@@ -1,5 +1,5 @@
 apple
 banana
-pear
 mango
+peach
 cherry
