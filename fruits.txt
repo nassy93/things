@@ -3,6 +3,7 @@ banana
 mango
 peach
 cherry
+mango
 papaya
 kiwi
 pear
