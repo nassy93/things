@@ -2,7 +2,7 @@ apple
 banana
 mango
 peach
-tomato
+cherry
 papaya
 kiwi
 pear
