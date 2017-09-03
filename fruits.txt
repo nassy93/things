@@ -5,3 +5,4 @@ peach
 cherry
 papaya
 kiwi
+pear
